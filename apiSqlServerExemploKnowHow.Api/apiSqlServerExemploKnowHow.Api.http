@@ -1,0 +1,6 @@
+@apiSqlServerExemploKnowHow.Api_HostAddress = http://localhost:5128
+
+GET {{apiSqlServerExemploKnowHow.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
